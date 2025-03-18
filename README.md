@@ -26,7 +26,7 @@ Follow these steps to set up the environment:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/fraser-code/NLP-review-recommender
    ```
 2. Navigate to the project directory:
    ```
