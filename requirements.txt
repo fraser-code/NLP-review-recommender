@@ -1,0 +1,8 @@
+scikit-learn
+pandas
+spacy
+numpy
+imblearn
+sentence-transformers
+joblib
+notebook
